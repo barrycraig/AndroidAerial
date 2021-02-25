@@ -1,0 +1,4 @@
+<resources>
+
+    <style name="Theme.ScreenSaver" parent="@style/Theme.Leanback" />
+</resources>
