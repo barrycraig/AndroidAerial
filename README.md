@@ -3,7 +3,9 @@ A 4k Video Android TV Screensaver
 
 # -THIS PROJECT-
 
-I am not a developer, I have no experience, skill or ability in this space whatsoever. I am however very frustrated by what seems like a simple problem without a solution: "Play 4k videos from a local folder as a screensaver on Android TV". I decided to put my money where my mouth is and commission a bare bones app to do just that. AndroidAerial is probably as far from perfect as it's possible to be but it does just about work. I have reached the limit of what I can/will pay for development so I decided to dump everything on Github to see if anyone more competent than me is interested in taking over.
+I am not a developer, I have no experience, skill or ability in this space whatsoever. I am however very frustrated by what seems like a simple problem without a solution: "Play 4k videos from a local folder as a screensaver on Android TV". I decided to put my money where my mouth is and commission a bare bones app to do just that. AndroidAerial is probably as far from perfect as it's possible to be but it does just about work. I have reached the limit of what I can/will pay for development so I decided to dump everything on Github to see if anyone more competent than me is interested in taking over. 
+
+PS. I also dont really know anything about Github so apologies for the mess that is this repo. Just keep in mind that I know nothing.
 
 --------
 
