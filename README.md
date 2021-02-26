@@ -28,6 +28,8 @@ Option 2
 
 I believe this app is basically abandonware, there hasn't been an update since Dec 2019 and the dev is totally non-responsive. It does have local video support but the implementation is very clunky. Support for 4k Videos is also extremely limited and despite much experimenting I haven't been able to find a way to get it to play smoothly and reliably.
 
+NOTE, I have been made aware of a third option, <a href="https://github.com/theothernt/AerialDream" target="_blank">a fork of Aerial Dream</a> by Theothernt. This app solves almost all the problems present in the original Aerial Dream, the only current downside is that it only supports the official List of 2019 Apple videos. If you are only interested in playing the Apple TV videos then this is a much better option than my app.
+
 --------
 
 # -HOW TO USE-
